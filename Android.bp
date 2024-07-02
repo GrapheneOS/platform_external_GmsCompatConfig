@@ -2,7 +2,7 @@ android_app_import {
     name: "GmsCompatConfig",
 
     apk: "prebuilt/GmsCompatConfig.apk",
-    preprocessed: true,
+    presigned: true,
 
     dex_preopt: {
         // no code
